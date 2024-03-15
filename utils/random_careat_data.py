@@ -127,4 +127,6 @@ if __name__ == "__main__":
         print("generate {} tasks".format(data.task_num))
         data.random_data_to_csv(data.tasks, data.task_denpendency, data.tasks_pretasks_list, num)
 
+        
+
 
